@@ -1,3 +1,3 @@
-# VPOcc: Exploiting Vanishing Point for Monocular 3D Semantic Occupancy Prediction
+# VPOcc: Exploiting Vanishing Point for 3D Semantic Occupancy Prediction
 
-- Code will be released soon.
+🔗 Official code repository: [vision3d-lab/VPOcc](https://github.com/vision3d-lab/VPOcc)
